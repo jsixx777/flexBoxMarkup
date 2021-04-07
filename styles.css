@@ -4,6 +4,9 @@ ul {
     justify-content: space-between;
     padding: 0px;
     margin: 0px;
+    flex-wrap: wrap;
+    height: 400px;
+    
 
 }
 
@@ -11,6 +14,15 @@ li {
     flex: 0 1 auto;
     border: 5px dotted blue;
 }
+
+.flex1 {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+
 
 
 
